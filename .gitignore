@@ -5,3 +5,5 @@ __pycache__/
 
 # PyCharm #
 .idea
+api.access
+api.error
